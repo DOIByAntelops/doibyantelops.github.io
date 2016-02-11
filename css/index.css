@@ -47,6 +47,14 @@ p {
 
 .bg-primary {
     background-color: #7e1416;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.bg-primary2 {
+    background-color: #b14749;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 
 .bg-dark {
@@ -59,7 +67,7 @@ p {
 }
 
 section {
-    padding: 100px 0;
+    padding: 50px 0;
 }
 
 aside {
